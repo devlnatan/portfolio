@@ -23,10 +23,6 @@ export default function HeroSection() {
             sequence={[
               "Desenvolvedor Front-end",
               2000,
-              "Especialista em React",
-              2000,
-              "UI/UX Enthusiast",
-              2000,
               "Criador de Experiências Web",
               2000,
             ]}
