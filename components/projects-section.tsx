@@ -6,12 +6,13 @@ import { ExternalLink } from "lucide-react"
 const projects = [
   {
     id: 1,
-    title: "Flores",
-    description: "Um site elegante e responsivo que gera flores em uma pegada imersiva.",
-    image: "flores.png",
-    url: "https://flowers-flame-alpha.vercel.app",
-    tags: ["HTML", "CSS", "JAVASCRIPT"],
+    title: "Tse-chatbot",
+    description: "Chatbot em formato de site para verificar um resumo sobre qualquer deputado.",
+    image: "tsechatbot.png",
+    url: "https://tse-chatbot-five.vercel.app/",
+    tags: ["HTML", "CSS", "Javascript", "back-end+"],
   },
+
   {
     id: 2,
     title: "LN Learning English",
@@ -20,30 +21,34 @@ const projects = [
     url: "https://lnlearningenglish.vercel.app",
     tags: ["HTML", "CSS", "JAVASCRIPT", "REACT", "TAILWIND", "TYPESCRIPT"],
   },
+
   {
     id: 3,
+    title: "Flores",
+    description: "Um site elegante e responsivo que gera flores em uma pegada imersiva.",
+    image: "flores.png",
+    url: "https://flowers-flame-alpha.vercel.app",
+    tags: ["HTML", "CSS", "JAVASCRIPT"],
+  },
+
+  {
+    id: 4,
     title: "Devsla",
     description: "Recriação da interface da Tesla com foco em performance e design.",
     image: "devsla.png",
     url: "https://devsla-ivory.vercel.app",
     tags: ["HTML", "CSS", "JAVASCRIPT"],
   },
+  
   {
-    id: 4,
+    id: 5,
     title: "Awax",
     description: "Site institucional com design criativo.",
     image: "awax.png",
     url: "https://awax-three.vercel.app",
     tags: ["HTML", "CSS"],
   },
-  {
-    id: 5,
-    title: "Notícias-cidade",
-    description: "Portal de notícias.",
-    image: "noticiascidade.png",
-    url: "https://city-news-navy.vercel.app",
-    tags: ["HTML", "CSS"],
-  },
+  
   {
     id: 6,
     title: "Starbucks",
