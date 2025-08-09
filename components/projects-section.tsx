@@ -10,7 +10,7 @@ const projects = [
     description: "Chatbot em formato de site para verificar um resumo sobre qualquer deputado.",
     image: "tsechatbot.png",
     url: "https://tse-chatbot-five.vercel.app/",
-    tags: ["HTML", "CSS", "Javascript", "back-end+"],
+    tags: ["HTML", "CSS", "JAVASCRIPT", "BACK-END+"],
   },
 
   {
